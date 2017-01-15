@@ -1,0 +1,13 @@
+﻿Build started 15/01/2017 23:53:56.
+     1>Project "C:\Users\Duy Khoa\Desktop\StudentManagerV3\StudentManagerV3.vcxproj" on node 2 (Build target(s)).
+     1>Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\Duy Khoa\Desktop\StudentManagerV3\Release\StudentManagerV3.lib" /NOLOGO /LTCG Release\Menu.obj
+         Release\Process.obj
+         Release\SinhVien.obj
+         Release\Source.obj
+         StudentManagerV3.vcxproj -> C:\Users\Duy Khoa\Desktop\StudentManagerV3\Release\StudentManagerV3.lib
+     1>Done Building Project "C:\Users\Duy Khoa\Desktop\StudentManagerV3\StudentManagerV3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.44
